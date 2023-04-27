@@ -86,8 +86,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-<!-- > Describe between 1-3 key features of the application. -->
-
 - **Easy to use and understand for beginners**
 - **Good example of basic HTML and CSS setup**
 - **Linters set up to catch any errors or issues in the code**
@@ -214,7 +212,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ  <a name="faq"></a>
 
 <!-- > Add at least 2 questions new developers would ask when they decide to use your project. -->
 
@@ -223,3 +221,7 @@ Feel free to check the [issues page](../../issues/).
   - This project was built using HTML, CSS and  Linter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
