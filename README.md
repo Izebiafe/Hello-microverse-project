@@ -167,11 +167,10 @@ Example:
 
 <!-- > Mention all of the collaborators of this project. -->
 
-👤 **Okolie Tochukwu**
+👤 **Afimia Fidlis Izebiafe**
 
-- GitHub: [@githubhandle](https://github.com/ticoniq)
-- Twitter: [@twitterhandle](https://twitter.com/ticoniq_)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ticoniq)
+- GitHub: https://github.com/Izebiafe
+- Twitter: [@Afimia_fidelis
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
